@@ -1,0 +1,4 @@
+name: FirstJoinTeleport
+version: 1.0.4
+main: net.bowline.firstjointeleport.FirstJoinTeleport
+description: Teleport players to another server if they haven't played before

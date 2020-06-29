@@ -1,0 +1,4 @@
+name: FirstJoinTeleport
+version: ${project.version}
+main: net.bowline.firstjointeleport.FirstJoinTeleport
+description: Teleport players to another server if they haven't played before

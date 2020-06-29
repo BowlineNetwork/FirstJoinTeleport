@@ -1,0 +1,3 @@
+settings:
+  enabled: true
+  has-not-played-before-server: '' # Server players will teleport to if they haven't played before
