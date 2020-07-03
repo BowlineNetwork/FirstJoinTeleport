@@ -1,3 +1,5 @@
 net/bowline/firstjointeleport/Util/ConfigManager.class
+net/bowline/firstjointeleport/Util/MySQL.class
 net/bowline/firstjointeleport/FirstJoinTeleport.class
+net/bowline/firstjointeleport/Util/SQL.class
 net/bowline/firstjointeleport/Commands/FJTCommand.class

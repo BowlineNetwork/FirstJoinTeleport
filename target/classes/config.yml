@@ -1,3 +1,10 @@
 settings:
   enabled: true
   has-not-played-before-server: '' # Server players will teleport to if they haven't played before
+  mysql:
+    enabled: false
+    host: host
+    user: user
+    password: password
+    database: database
+    port: 3306
